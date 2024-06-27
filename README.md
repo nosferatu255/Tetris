@@ -21,7 +21,7 @@ This is a classic Tetris game built using the raylib library. The objective is t
 - Simple and clean graphics
 
 ## Installation
-To run this game just start the .exe file. You can download the file from [here](https://github.com/nosferatu255/Tetris/blob/main/game.exe).
+To run this game just start the .exe file. You can download the file from [here](https://github.com/nosferatu255/Tetris/blob/main/download/game.exe).
 
 ## Screenshots
 
